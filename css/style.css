@@ -402,6 +402,31 @@ body {
     height: 495px;
     text-align: center;
 }
+.sw-slide-bg-1{
+    background: url('../images/slide_img_1.jpg') no-repeat center;
+    background-size: cover;
+}
+.sw-slide-bg-2{
+    background: url('../images/slide_img_2.jpg') no-repeat center;
+    background-size: cover;
+}
+.sw-slide-bg-3{
+    background: url('../images/slide_img_3.jpg') no-repeat center;
+    background-size: cover;
+}
+.sw-slide-bg-4{
+    background: url('../images/slide_img_4.jpg') no-repeat center;
+    background-size: cover;
+}
+.sw-slide-bg-5{
+    background: url('../images/slide_img_5.jpg') no-repeat center;
+    background-size: cover;
+}
+.sw-slide-bg-6{
+    background: url('../images/slide_img_6.jpg') no-repeat center;
+    background-size: cover;
+}
+
 .sw-slide-prev{
     position: absolute;
     left: 95px;
